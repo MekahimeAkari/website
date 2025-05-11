@@ -1,3 +1,63 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
+    background: #000000;
+    color: #c6c6c6;
+}
+
+#black {
+    color: #000000;
+}
+#white {
+    color: #c6c6c6;
+}
+#grey0 {
+    color: #323437;
+}
+#khaki {
+    color: #c2c292;
+}
+#yellow {
+    color: #e3c78a;
+}
+#orange {
+    color: #de935f;
+}
+#coral {
+    color: #f09479;
+}
+#orchid {
+    color: #e196a2;
+}
+#lime {
+    color: #85dc85;
+}
+#green {
+    color: #8cc85f;
+}
+#emerald {
+    color: #36c692;
+}
+#blue {
+    color: #80a0ff;
+}
+#sky {
+    color: #74b2ff;
+}
+#turquoise {
+    color: #79dac8;
+}
+#purple {
+    color: #ae81ff;
+}
+#cranberry {
+    color: #e65e72;
+}
+#violet {
+    color: #cf87e8;
+}
+#crimson {
+    color: #ff5189;
+}
+#red {
+    color: #ff5454;
 }
